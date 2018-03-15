@@ -13,7 +13,7 @@ This vulnerability can be triggered by viewing a message in the backstage of the
 Location of a vulnerability in source code：
 $byz=$_POST['b_yzcode'];
 if($byz!==md5($yzcode)){
-	ok_info(0,'错误的参数！');
+	ok_info(0,'Wrong parameters!');
 }
 $siteinfo = array(
 		'type_id' => intval(trim($_POST['type_id'])),
