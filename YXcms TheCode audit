@@ -1,0 +1,79 @@
+-----BEGIN PGP SIGNED MESSAGE----- 
+Hash: SHA256 
+
+> [Suggested description] 
+> protected\apps\member\controller\shopcarController.php in Yxcms 
+> building system (compatible cell phone) v1.4.7 has a logic flaw 
+> allowing attackers to modify a price, before form submission, by 
+> observing data in a packet capture. 
+> 
+> -------------------------- ---------------- 
+> 
+> [VulnerabilityType Other] 
+> Business city logic defect vulnerability 
+> 
+> -------------------- ---------------------- 
+> 
+> [Vendor of Product] 
+> yxcms 
+> 
+> ----------------- ------------------------- 
+> 
+>[Affected Product Code Base]
+> Yxcms building system (compatible cell phone) v1.4.7 - v1.4.7 
+> 
+> -------------------------------- ---------- 
+> 
+> [Affected Component] 
+> Business city price form modification loophole 
+> 
+> ------------------------- ----------------- 
+> 
+> [Attack Type] 
+> Remote 
+> 
+> ----------------------- ------------------- 
+> 
+> [Attack Vectors] 
+> To modify the price form packet capture 
+> 
+> --------------- --------------------------- 
+> 
+> [Reference] 
+> http://www.y xcms.net/
+> 
+> ---- -------------------------------------- 
+>
+> [Has vendor confirmed or acknowledged the vulnerability?] 
+> true 
+> 
+> ----------------------------------- ------- 
+> 
+> [Discoverer] 
+> password 
+
+Use CVE- 2018-8761 . 
+
+
+- -- 
+CVE Assignment Team 
+M/S M300, 202 Burlington Road, Bedford, MA 01730 USA 
+[ A PGP key is available for encrypted communications at 
+  http://cve.m itre.org/cve /request_id. html ] 
+-----BEGIN PGP SIGNATURE----- 
+Version: GnuPG v1 
+
+iQIcBAEBCAAGBQJareBlAAoJEHb/MwWLVhi25MMP/27PNpvaMhwqtOh6QbMgcOK4 
+QKBYTXBflsXbHvWrL7mSV8P7UtVRyx8d2Q3wdnY8q5Y/H/kPqiPKtcDA/Yu8y1Sm
+8+85WwLKDOqX0C8utFNVt3NTJokgYv4my7pnfqJHmRXcL6fwJEL7Uw6DL5pDjI01 
+sxY7XMEph9mMax57q+GOwm7C17mN4NITTCzqLiEeoOG4DerOpNrl+lYg4SSk07dw 
+nkMBpgXdP6PeBTyzHwUuP1QESF5yiTI1YhX85TfDB3iGwYuKhOr4s4/l/si2nS5z 
+jHimiCoueuNGGcLEyhwgh5jQ2Ph0L3xODPrme/eR7KUSMqzpS5Z3dvRaSb3I4ntX 
+rIRR0L31edbb6ScKEiwqpf3oNKYff2lahSwrcZi/oDxmTD0bcVRgxYg6BPBwP9wn 
+WHkDkt87k60BV1HtrxqvTXnU5neekUnsE50BITYaHnyOreLFiEp95otGorqwYl7G 
+VcI8DODndkfh+AZlXBzNu8dHjvgP32IshxWOL3wNJe01NPDFR3pBbj5SJ1NrOBJF 
+UH7l2/MuWyJ+Hr5UCpYIGRNClmxgzlImdJs/Z1EaD0vYkVUTZoj2OxkSBws8zmzb 
++L7nPy6hrkVMfeozKip7chYpx7BwLPmcp7XLggxOi02m2abo3lHdculBYccCOkI0 
+uoYtt9gzAcbcO6fl5kvf 
+=7qGL 
+-----END PGP SIGNATURE-----
