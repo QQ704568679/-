@@ -118,6 +118,10 @@ if ($_SESSION["f"] == 1) {
 
 ?>
 
+
+Qiming Star Information Technology Group Limited by Share Ltd
+
+
 [vulnerability]
 
 Attackers can cause sensitive database information leakage by constructing malicious code.
